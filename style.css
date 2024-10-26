@@ -1,0 +1,81 @@
+body {
+    background: black;
+    background-size: cover;
+  }
+  
+  .img-container {
+    border: none;
+    margin-top: 112px;
+  }
+  
+  .img1 {
+    width: 180px;
+    height: 180px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 57px;
+  }
+  
+  .name1 {
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 1px;
+    font-size: 28px;
+  }
+  
+  .arroba {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-right: 338px;
+    margin-left: 329px;
+    text-align: center;
+  }
+  
+  .p1 {
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 6px;
+  }
+
+  .discord {
+    text-decoration: none !important;
+  }
+  
+  .button-container {
+    border: none;
+  }
+  
+  .bt1 {
+    width: 211px;
+    height: 40px;
+    border-radius: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    background: black;
+    display: block;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 16px;
+    font-size: 14px;
+    border: 1px solid white;
+  }
+  
+  .link-p {
+    text-decoration: none;
+  }
