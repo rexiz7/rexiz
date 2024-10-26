@@ -28,19 +28,7 @@ body {
     margin-top: 1px;
     font-size: 28px;
   }
-  
-  .arroba {
-    font-size: 15px;
-    font-family: sans-serif;
-    color: gray;
-    display: flex;
-    justify-content: center;
-    margin: 0 auto;
-    margin-right: 338px;
-    margin-left: 329px;
-    text-align: center;
-  }
-  
+
   .p1 {
     font-size: 12px;
     font-family: sans-serif;
